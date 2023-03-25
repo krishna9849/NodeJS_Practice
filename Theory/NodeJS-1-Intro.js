@@ -6,10 +6,23 @@
         3. scalable , high performance , open source
         4. server side development
 
------------- NodeJs Ecosystem and Event loop ---------------
+Runtime environment + Javascript Library
 
-    
+--------Features of NodeJS-----------
 
+1. single threaded
+2. i/o asynchronous and event driven
+3. highly scalable
 
+---------Parts of NodeJs--------
+buffer
+modules
+error handling
+debugger
+console
+cluster
+DNS
+global
+streaming etc
 
 */
